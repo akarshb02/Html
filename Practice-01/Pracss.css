@@ -1,0 +1,46 @@
+h1 {
+    color: #1a1c20;
+    margin-left: 600px;
+}
+
+body {
+    background-color: #f0a500;
+}
+
+hr {
+    border-style: dotted;
+    border-top: 20px;
+    width: 50%;
+    size: 20px;
+}
+
+img {
+    padding: 0;
+    height: 10%;
+    margin-left: 46%;
+}
+
+p {
+    margin-top: 0px;
+    padding-top: 0%;
+    display: inline-block;
+}
+
+table {
+    width: 100%;
+}
+
+#info {
+    color: white;
+    display: inline;
+}
+
+.div {
+    color: chocolate;
+    display: inline;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 90;
+}

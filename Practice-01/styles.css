@@ -1,0 +1,21 @@
+.imgg {
+    margin: 2% 0 2% 50%;
+}
+
+.sep {
+    display: inline-flex;
+}
+
+.fom {
+    margin-left: 2%;
+}
+
+.red {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.red:hover {
+    background-color: gold;
+}

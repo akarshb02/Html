@@ -1,13 +1,6 @@
 # html
 Implementation Of Resume
 
-##usage
+## usage
 - selectors
--- class
--- id
-
--positioning
---relative
---absolute
---static
---fixed
+- positioning
